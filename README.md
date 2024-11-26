@@ -1,6 +1,6 @@
 # 📋 Sistema de Cadastro e Gestão de Usuários
 
-Este é um projeto desenvolvido como parte da disciplina de Desenvolvimento para Plataformas Web da Universidade de Fortaleza (UNIFOR).
+Este é um projeto desenvolvido como Atividade Final da disciplina de Desenvolvimento para Plataformas Web, do curso de Análise e Desenvolvimento de Sistemas da Universidade de Fortaleza (UNIFOR).
 O sistema permite o cadastro de usuários, autenticação e gestão administrativa, sendo projetado com uma interface simples e funcional.
 
 ---
