@@ -1,0 +1,13 @@
+{
+    "version": 2,
+    "builds": [
+      {
+        "src": "backend/server.js",
+        "use": "@vercel/node"
+      }
+    ],
+    "env": {
+      "MONGO_URI": "@MONGO_URI",
+      "JWT_SECRET": "@JWT_SECRET"
+    }
+  }
